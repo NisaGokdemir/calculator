@@ -35,7 +35,7 @@ The *Calculator* is a simple web application that provides basic arithmetic calc
    <img src="calculator.png" alt="alt text" width="350" height="400">
 
 ## Live Demo
-Live Demo: 
+Live Demo: [Calculator Demo](https://calculator-ten-teal.vercel.app/)
 
 ## Installation
 No special installation is required for this project. Simply download the project files and open the `index.html` file in a web browser.
